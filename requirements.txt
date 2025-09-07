@@ -1,1 +1,8 @@
 squarify
+WordCloud
+pandas
+networkx
+community
+python-louvain
+stopwords
+nltk
